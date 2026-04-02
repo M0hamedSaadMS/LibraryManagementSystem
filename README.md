@@ -1,2 +1,2 @@
-# LibraryManagementSystem
-📚 Library Management System – A Java-based app to manage books &amp; members! Add, search, borrow, return books 📝, create memberships 👤, and display all books &amp; members 📖. Perfect for practicing OOP, ArrayLists, and console-based applications 💻✨.
+📚 Library Management System (Java)
+Welcome to the Library Management System! 🎉 This is a console-based Java application designed to help manage books and library members efficiently. It's a great project to practice OOP concepts, ArrayLists, and basic Java programming. 💻✨
