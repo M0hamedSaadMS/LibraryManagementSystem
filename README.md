@@ -55,6 +55,9 @@ A **console-based Java application** designed to manage books and library member
 
 ## ❤️ Acknowledgments
 Inspired by practical learning exercises for Java beginners and students learning OOP and collections
-1. Clone the repository:  
+
+
+---  
+
 ```bash
 git clone https://github.com/M0hamedSaadMS/library-management-system.git
